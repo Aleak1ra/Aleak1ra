@@ -1,8 +1,8 @@
-# 💫 About Me:
+# 💫 Um pouco sobre mim:
 Olá, meu nome é Alexandre Gonçalves Bernardi, tenho 25 anos.<br>Estou cursando Análise e Desenvolvimento de Sistemas, na UniCesumar,<br>também estou em busca de uma oportunidade de Estágio/Trainee/Junior na área de desenvolvimento web, mobile ou software. Pretendo seguir carreira na área como desenvolvedor, sou dedicado e esforçado com minhas tarefas, sempre buscando entregar melhores resultados.
 
 
-## 🌐 Socials:
+## 🌐Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@aleak1ra) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alexandregb) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/Gonçalves Ale) 
 
 # 💻 Tech Stack:
