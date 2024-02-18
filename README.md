@@ -1,5 +1,5 @@
 # 💫 Um pouco sobre mim:
-Olá, meu nome é Alexandre Gonçalves Bernardi, tenho 25 anos.<br>Estou cursando Análise e Desenvolvimento de Sistemas, na UniCesumar,<br>também estou em busca de uma oportunidade de Estágio/Trainee/Junior na área de desenvolvimento web, mobile ou software. Pretendo seguir carreira na área como desenvolvedor, sou dedicado e esforçado com minhas tarefas, sempre buscando entregar melhores resultados.
+Olá, meu nome é Alexandre Gonçalves Bernardi, tenho 27 anos.<br>Estou cursando Análise e Desenvolvimento de Sistemas, presencialmente na UniCesumar,<brestágiario na área de desenvolvimento web na Lode. Pretendo seguir carreira na área como desenvolvedor, sou dedicado e esforçado com minhas tarefas, sempre buscando entregar melhores resultados.
 
 
 # 💻 Tech Stack:
