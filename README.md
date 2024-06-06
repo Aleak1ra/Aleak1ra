@@ -1,5 +1,10 @@
 # 💫 Um pouco sobre mim:
 Olá, meu nome é Alexandre Gonçalves Bernardi, tenho 27 anos.<br>Estou cursando Análise e Desenvolvimento de Sistemas, presencialmente na UniCesumar,<br>estagiário na área de desenvolvimento web na Lode. Pretendo seguir carreira na área como desenvolvedor, sou dedicado e esforçado com minhas tarefas, sempre buscando entregar melhores resultados.
+
+💫 About me:
+Hello, my name is Alexandre Gonçalves Bernardi, I am 27 years old.
+I'm studying Systems Analysis and Development, in person at UniCesumar,
+intern in the web development area at Lode. I intend to pursue a career in the area as a developer, I am dedicated and hard-working with my tasks, always seeking to deliver better results.
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alexandregb)
 
